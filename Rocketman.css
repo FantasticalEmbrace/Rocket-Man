@@ -1,0 +1,94 @@
+                                /* Home Page */
+
+body                              {padding: 0;
+                                   margin: 0;
+                                   border: 0;
+                                   outline:0;
+                                   background-color: black;}
+
+body#contact                      {padding: 0;
+                                    margin: 0;
+                                    border: 0;
+                                    outline:0;
+                                    background-color:white;}
+ 
+.elton                            {padding-left: 200px;} 
+        
+ul                                {list-style-type: none;
+                                   margin-left: 200px;
+                                   margin-top: 25px;}
+
+li                                {display: block;
+                                   float: left;}
+.discography                      {padding-left: 160px;}
+
+.videos                           {padding-left: 160px;}
+
+.flex-container                   {display:flex;
+                                   background-color: white;} 
+
+.flex-container> div              {margin: 20px;
+                                   Padding: 20px; 
+                                   font-size: 10px;}
+ 
+.whitesuit                        {opacity: 0.5;}
+
+.Maintenance                      {color:white;
+                                   font-family: garamond;
+                                   font-size: 4vw;
+                                   position:relative;
+                                   bottom: 500px;
+                                   left:70px;}
+
+.quote                            {color: white;
+                                   font-family: garamond;
+                                   font-size: 2vw;  
+                                   position:relative;
+                                   bottom: 500px;
+                                   left:   60px;  }
+
+.qi                               {text-indent: 10px;}
+
+.contactus                        {position: relative;
+                                   bottom:  -40px;
+                                   left:     8px;}  
+
+                                /* History Page */
+
+.flex-container-history           {display:flex;
+                                   background-color:(black);} 
+ 
+.flex-container-history > div     {margin: 20px;
+                                   Padding: 20px;
+                                   font-size: 10px;}
+
+.paragraph-history                {text-indent: 30px;
+                                   color: white;font-family: garamond;
+                                   font-size: 25px;}
+            
+.background-image                 {background-image:      url(Images/Rocketman\ 1971.jpeg);
+                                   background-position:   bottom ; 
+                                   background-size:       750px;
+                                   background-repeat:     no-repeat;
+                                   background-attachment: fixed;} 
+
+.wikilink                         {color: white;}       
+
+a:hover                           {color:lightskyblue}
+                                                                        
+                                 /* Contact Page */
+
+.contact                          {position:    relative;
+                                   margin-left: 500px;}
+                                   
+.contactimage                     {position:    relative;
+                                   margin-left: 515px;
+                                   margin-top:  50px;}
+
+.imgborder                        {background:    linear-gradient(45deg,rgb(155, 152, 152), rgb(114, 114, 114), rgb(43, 43, 43)) border-box,
+                                                  linear-gradient(white,white) padding-box;
+                                   border-style:  solid;                                      
+                                   border-width:  7px; 
+                                   border-radius: 25px;}
+
+                                   
